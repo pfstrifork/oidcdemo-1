@@ -1,4 +1,4 @@
-package com.trifork.demo.jwt.demo;
+package com.trifork.demo.jwt.ex1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

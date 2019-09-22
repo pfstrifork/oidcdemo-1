@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.trifork.demo.jwt</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>ex1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>ex1</name>
 	<description>JWT validering</description>
 
 	<properties>
